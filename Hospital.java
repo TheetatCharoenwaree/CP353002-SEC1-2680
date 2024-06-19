@@ -1,1 +1,5 @@
+class Hospital{
+    public Hospital(){
 
+    }
+}
